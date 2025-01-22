@@ -77,7 +77,7 @@ The current implementation focuses solely on the interface. Features like **Empl
 ## **References**
 
 This interface draws inspiration from the *Severance* universe and uses the following resources as references for its design and structure:
-- [Lumon Computer Set Piece](https://i.sstatic.net/6HOxY.jpg)
+- [Severance UI Design](https://www.hudsandguis.com/home/2022/severance)
 - Visuals and style inspired by the Apple TV+ series *Severance*.
 
 ---
