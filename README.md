@@ -94,12 +94,3 @@ Please ensure clarity, compliance, and refinement in every pull request.
 The **Lumon Interface** is an independent project inspired by the world of *Severance*. All rights to the show and its intellectual property belong to their respective owners.
 
 ---
-
-> **"Your mind must remain pure. The numbers are speaking."**
-
-Happy refining!  
-**– The Lumon Interface Development Team**
-
----
-
-Let me know if you need further refinements or additional sections for this README! 😊
