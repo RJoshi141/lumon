@@ -22,7 +22,7 @@ The **Lumon Interface** is a static web-based simulation inspired by the aesthet
 
 ### **Design Inspiration**
 The user interface pays homage to the iconic set piece from *Severance*, complete with retro-futuristic styling and meticulous detail.  
-![Lumon Set Piece Reference](https://i.sstatic.net/6HOxY.jpg)
+<img src="https://i.sstatic.net/6HOxY.jpg" alt="Lumon Set Piece Reference" width="600">
 
 ---
 
