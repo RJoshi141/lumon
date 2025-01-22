@@ -9,7 +9,7 @@ Welcome to the **Lumon Interface**, an homage to the enigmatic world of *Severan
 ## **Demo**
 
 Observe the meticulous design in action:  
-![Lumon Interface Demo](img/lumon-demo-1.gif)
+<img src="img/lumon-demo-1.gif" alt="Lumon Interface Demo" width="600">
 
 Experience the initial system load, reminiscent of the severed floor:  
 ![Opening Screen](img/show_open_screen.gif)
