@@ -1,7 +1,3 @@
-Here’s the updated **Severance-inspired README** for your **"Lumon"** repository, with the requested additions for reference and additional visuals:
-
----
-
 # Lumon Interface
 
 > **"Refinement is clarity. Compliance is contentment."**
