@@ -1,3 +1,7 @@
+Here’s the updated **Severance-inspired README** for your **"Lumon"** repository, with the requested additions for reference and additional visuals:
+
+---
+
 # Lumon Interface
 
 > **"Refinement is clarity. Compliance is contentment."**
@@ -11,11 +15,18 @@ Welcome to the **Lumon Interface**, an homage to the enigmatic world of *Severan
 Observe the meticulous design in action:  
 ![Lumon Interface Demo](img/lumon-demo-1.gif)
 
+Experience the initial system load, reminiscent of the severed floor:  
+![Opening Screen](img/show_open_screen.gif)
+
 ---
 
 ## **Overview**
 
 The **Lumon Interface** is a static web-based simulation inspired by the aesthetics and functionality depicted in the show. It combines minimalist design with dynamic animations to create an immersive experience for all who dare to refine.
+
+### **Design Inspiration**
+The user interface pays homage to the iconic set piece from *Severance*, complete with retro-futuristic styling and meticulous detail.  
+![Lumon Set Piece Reference](https://i.sstatic.net/6HOxY.jpg)
 
 ---
 
@@ -67,6 +78,14 @@ The current implementation focuses solely on the interface. Features like **Empl
 
 ---
 
+## **References**
+
+This interface draws inspiration from the *Severance* universe and uses the following resources as references for its design and structure:
+- [Lumon Computer Set Piece](https://i.sstatic.net/6HOxY.jpg)
+- Visuals and style inspired by the Apple TV+ series *Severance*.
+
+---
+
 ## **Contributions**
 
 Contributions are welcome, but all code must meet Lumon’s exacting standards.  
@@ -78,5 +97,13 @@ Please ensure clarity, compliance, and refinement in every pull request.
 
 The **Lumon Interface** is an independent project inspired by the world of *Severance*. All rights to the show and its intellectual property belong to their respective owners.
 
-Happy refining!  
 ---
+
+> **"Your mind must remain pure. The numbers are speaking."**
+
+Happy refining!  
+**– The Lumon Interface Development Team**
+
+---
+
+Let me know if you need further refinements or additional sections for this README! 😊
