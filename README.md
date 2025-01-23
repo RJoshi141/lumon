@@ -1,4 +1,4 @@
-# Lumon Interface
+# Lum💧n Interface
 
 > **"Refinement is clarity. Compliance is contentment."**
 
