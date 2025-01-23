@@ -52,3 +52,40 @@ document.querySelectorAll("section div").forEach(div => {
     //div.style.transform = "scale("+score+")";
 })
 })
+
+
+
+
+const employeeData = [
+    { name: "Mark S.", tasks: 238, compliance: 92 },
+    { name: "Helly R.", tasks: 183, compliance: 85 },
+    { name: "Irving B.", tasks: 210, compliance: 88 },
+    { name: "Dylan G.", tasks: 305, compliance: 95 },
+    { name: "Ms. Cobel", tasks: 400, compliance: 98 },
+];
+
+function generateEmployeeReports() {
+    const reportList = document.getElementById("report-list");
+
+    if (reportList) {
+        reportList.innerHTML = ""; // Clear existing reports
+
+        employeeData.forEach((employee) => {
+            const report = document.createElement("div");
+            report.classList.add("report-item");
+
+            report.innerHTML = `
+                <strong>Employee:</strong> ${employee.name}<br>
+                <strong>Tasks Refined:</strong> ${employee.tasks}<br>
+                <strong>Compliance Score:</strong> ${employee.compliance}%
+            `;
+
+            reportList.appendChild(report);
+        });
+    }
+}
+
+// Generate reports only if on the Employee Reports page
+if (document.getElementById("employee-reports")) {
+    generateEmployeeReports();
+}
