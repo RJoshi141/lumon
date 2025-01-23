@@ -97,5 +97,4 @@ The **Lumon Interface** is an independent project inspired by the world of *Seve
 
 Happy refining!
 
-<img src="https://media.tenor.com/hFeyZCR_srYAAAAM/severance-dance.gif" alt="Lumon Set Piece Reference" width="100">
----
+<img src="https://media.tenor.com/hFeyZCR_srYAAAAM/severance-dance.gif" alt="Lumon Set Piece Reference" width="110">
