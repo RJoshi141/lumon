@@ -26,7 +26,7 @@ The user interface pays homage to the iconic set piece from *Severance*, complet
 
 ---
 
-## 🖥️ **Features**
+## 🌟 **Features**
 
 - **Interactive Grid Display**:  
   A mesmerizing grid layout, dynamically populated with data for the ultimate refinement experience.
@@ -39,7 +39,7 @@ The user interface pays homage to the iconic set piece from *Severance*, complet
 
 ---
 
-## 🌐 **Usage**
+## ⚒️ **Usage**
 
 1. Clone the repository:
    ```bash
@@ -57,7 +57,7 @@ The user interface pays homage to the iconic set piece from *Severance*, complet
 
 ---
 
-## 📝 **Development Notes**
+## ✍🏼 **Development Notes**
 
 The current implementation focuses solely on the interface. Features like **Employee Reports** and the **Features Dashboard** are **under development** and will be introduced in future updates.
 
@@ -88,7 +88,7 @@ Contributions are welcome, but all code must meet Lumon’s exacting standards. 
 
 ---
 
-## 📄 **License**
+## 📃 **License**
 
 The **Lumon Interface** is an independent project inspired by the world of *Severance*. All rights to the show and its intellectual property belong to their respective owners.
 
