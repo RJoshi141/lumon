@@ -1,12 +1,12 @@
-# Lum💧n Interface
+# Lumon Interface 
 
 > **"Refinement is clarity. Compliance is contentment."**
 
-Welcome to the **Lumon Interface**, an homage to the enigmatic world of *Severance*. This project replicates the retro-futuristic design of the Lumon workplace with a focus on precision and refinement.
+Welcome to the **Lumon Interface**, an homage to the enigmatic world of *Severance*. This project replicates the retro-futuristic design of the Lumon workplace 👔 with a focus on precision and refinement 🗂️.
 
 ---
 
-## **Demo**
+## 🔢 **Demo** 
 
 Observe the meticulous design in action:  
 <img src="img/lumon-demo-1.gif" alt="Lumon Interface Demo" width="600">
