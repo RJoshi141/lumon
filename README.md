@@ -87,12 +87,15 @@ This interface draws inspiration from the *Severance* universe and uses the foll
 Contributions are welcome, but all code must meet Lumon’s exacting standards.  
 Please ensure clarity, compliance, and refinement in every pull request.
 
-Happy refining!
-<img src="https://media.tenor.com/hFeyZCR_srYAAAAM/severance-dance.gif" alt="Lumon Set Piece Reference" width="100">
 ---
 
 ## **License**
 
 The **Lumon Interface** is an independent project inspired by the world of *Severance*. All rights to the show and its intellectual property belong to their respective owners.
 
+---
+
+Happy refining!
+
+<img src="https://media.tenor.com/hFeyZCR_srYAAAAM/severance-dance.gif" alt="Lumon Set Piece Reference" width="100">
 ---
