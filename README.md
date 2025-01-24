@@ -77,10 +77,11 @@ The current implementation focuses solely on the interface. Features like **Empl
 ## 🚀 **Roadmap**
 
 - Add a **Features Dashboard** with links to:
-  ✓ Employee Reports
+  - ✓ Employee Reports
   - Cryptic Message Board
   - Interactive Tasks
-✓ Develop a dynamic **Employee Reports** module.
+- ✓ Develop a dynamic **Employee Reports** module.
+  - Inset image     
 - Enhance user interactivity with additional animations and sound effects.
 
 ---
