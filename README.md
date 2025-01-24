@@ -21,9 +21,9 @@ Lumon Screen from the show:
 <img src ="img/show_lumon_screen.gif" alt="Lumon Screen from the show" width = "600">
 
 
-Lumon Screen from the show:
+Screen Interface from the show:
 
-<img src ="img/show_lumon_screen.gif" alt="Lumon Screen from the show" width = "600">
+<img src ="img/show_lumon_interface.gif" alt="Screen Interface from the show" width = "600">
 
 ---
 
