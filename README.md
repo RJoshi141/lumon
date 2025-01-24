@@ -81,7 +81,7 @@ The current implementation focuses solely on the interface. Features like **Empl
   - Cryptic Message Board
   - Interactive Tasks
 - ✓ Develop a dynamic **Employee Reports** module.
-  - Inset image     
+  - <img src="img/lumon_employee-reports.gif" alt="Lumon Interface Demo" width="600">
 - Enhance user interactivity with additional animations and sound effects.
 
 ---
