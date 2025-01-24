@@ -21,9 +21,11 @@ The user interface pays homage to the iconic set piece from *Severance*, complet
 <img src="https://i.sstatic.net/6HOxY.jpg" alt="Lumon Set Piece Reference" width="600">
 
 Lumon Screen from the show:
+
 <img src ="img/show_lumon_screen.gif" alt="Lumon Screen from the show" width = "600">
 
 Screen Interface from the show:
+
 <img src ="img/show_lumon_interface.gif" alt="Screen Interface from the show" width = "600">
 
 ---
