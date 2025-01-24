@@ -18,7 +18,8 @@ Observe the meticulous design in action:
 
 ### **Design Inspiration**
 The user interface pays homage to the iconic set piece from *Severance*, complete with retro-futuristic styling and meticulous detail.  
-<img src="https://i.sstatic.net/6HOxY.jpg" alt="Lumon Set Piece Reference" width="600">
+
+<img src="https://i.sstatic.net/6HOxY.jpg" alt="Lumon Set Piece Reference" width="580">
 
 Lumon Screen from the show:
 
