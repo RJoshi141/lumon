@@ -13,6 +13,15 @@ Observe the meticulous design in action:
 
 ---
 
+
+## **Examples from the show**
+
+Lumon Screen from the show:
+<img src ="img/show_lumon_screen.gif" alt="Lumon Screen from the show" width = "600">
+
+---
+
+
 ## 👩🏻‍💻 **Overview**
 
 The **Lumon Interface** is a static web-based simulation inspired by the aesthetics and functionality depicted in the show. It combines minimalist design with dynamic animations to create an immersive experience for all who dare to refine.
