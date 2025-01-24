@@ -12,7 +12,7 @@ Observe the meticulous design in action:
 <img src="img/lumon-demo-1.gif" alt="Lumon Interface Demo" width="600">
 
 Experience the initial system load, reminiscent of the severed floor:  
-![Opening Screen](img/show_open_screen.gif)
+<img src="(img/show_open_screen.gif" alt="Open Screen" width="600">
 
 ---
 
