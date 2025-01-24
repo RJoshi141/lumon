@@ -17,10 +17,15 @@ Observe the meticulous design in action:
 ## **Examples from the show**
 
 Lumon Screen from the show:
+
+<img src ="img/show_lumon_screen.gif" alt="Lumon Screen from the show" width = "600">
+
+
+Lumon Screen from the show:
+
 <img src ="img/show_lumon_screen.gif" alt="Lumon Screen from the show" width = "600">
 
 ---
-
 
 ## 👩🏻‍💻 **Overview**
 
