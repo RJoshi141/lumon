@@ -8,7 +8,8 @@ Welcome to the **Lumon Interface**, an homage to the enigmatic world of *Severan
 
 ## 🔢 **Demo** 
 
-Observe the meticulous design in action:  
+Observe the meticulous design in action:
+
 <img src="img/lumon-demo-1.gif" alt="Lumon Interface Demo" width="600">
 
 ---
