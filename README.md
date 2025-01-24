@@ -16,13 +16,14 @@ Observe the meticulous design in action:
 
 ## **Examples from the show**
 
-Lumon Screen from the show:
+### **Design Inspiration**
+The user interface pays homage to the iconic set piece from *Severance*, complete with retro-futuristic styling and meticulous detail.  
+<img src="https://i.sstatic.net/6HOxY.jpg" alt="Lumon Set Piece Reference" width="600">
 
+Lumon Screen from the show:
 <img src ="img/show_lumon_screen.gif" alt="Lumon Screen from the show" width = "600">
 
-
 Screen Interface from the show:
-
 <img src ="img/show_lumon_interface.gif" alt="Screen Interface from the show" width = "600">
 
 ---
@@ -30,10 +31,6 @@ Screen Interface from the show:
 ## 👩🏻‍💻 **Overview**
 
 The **Lumon Interface** is a static web-based simulation inspired by the aesthetics and functionality depicted in the show. It combines minimalist design with dynamic animations to create an immersive experience for all who dare to refine.
-
-### **Design Inspiration**
-The user interface pays homage to the iconic set piece from *Severance*, complete with retro-futuristic styling and meticulous detail.  
-<img src="https://i.sstatic.net/6HOxY.jpg" alt="Lumon Set Piece Reference" width="600">
 
 ---
 
