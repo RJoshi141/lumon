@@ -4,7 +4,7 @@
 
 Welcome to the **Lumon Interface**, an homage to the enigmatic world of *Severance*. This project replicates the retro-futuristic design of the Lumon workplace 👔 with a focus on precision and refinement 🗂️.
 
----
+
 
 ## **Demo** 
 
@@ -12,7 +12,7 @@ Observe the meticulous design in action:
 
 <img src="img/lumon-demo-1.gif" alt="Lumon Interface Demo" width="600">
 
----
+
 
 
 ## **Examples from the show**
@@ -30,13 +30,13 @@ Screen Interface from the show:
 
 <img src ="img/show_lumon_interface.gif" alt="Screen Interface from the show" width = "600">
 
----
+
 
 ## **Overview**
 
 The **Lumon Interface** is a static web-based simulation inspired by the aesthetics and functionality depicted in the show. It combines minimalist design with dynamic animations to create an immersive experience for all who dare to refine.
 
----
+
 
 ## **Features**
 
@@ -49,7 +49,7 @@ The **Lumon Interface** is a static web-based simulation inspired by the aesthet
 - **Meticulous Design**:  
   Typography, colors, and layout adhere to the design principles of Lumon Industries—clean, sharp, and compliant.
 
----
+
 
 ## **Usage**
 
@@ -67,13 +67,13 @@ The **Lumon Interface** is a static web-based simulation inspired by the aesthet
 
 3. Enjoy refining data, as every compliant worker should.
 
----
+
 
 ## **Development Notes**
 
 The current implementation focuses solely on the interface. Features like **Employee Reports** and the **Features Dashboard** are **under development** and will be introduced in future updates.
 
----
+
 
 ## **Roadmap**
 
@@ -85,7 +85,7 @@ The current implementation focuses solely on the interface. Features like **Empl
   - <img src="img/lumon_employee-reports.gif" alt="Lumon Interface Demo" width="600">
 - Enhance user interactivity with additional animations and sound effects.
 
----
+
 
 ## **References**
 
@@ -93,13 +93,13 @@ This interface draws inspiration from the *Severance* universe and uses the foll
 - [Severance UI Design](https://www.hudsandguis.com/home/2022/severance)
 - Visuals and style inspired by the Apple TV+ series *Severance*.
 
----
+
 
 ## **Contributions**
 
 Contributions are welcome, but all code must meet Lumon’s exacting standards. Please ensure clarity, compliance, and refinement in every pull request.
 
----
+
 
 ## **License**
 
