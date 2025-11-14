@@ -6,7 +6,7 @@ Welcome to the **Lumon Interface**, an homage to the enigmatic world of *Severan
 
 ---
 
-## 🔢 **Demo** 
+## **Demo** 
 
 Observe the meticulous design in action:
 
@@ -32,13 +32,13 @@ Screen Interface from the show:
 
 ---
 
-## 👩🏻‍💻 **Overview**
+## **Overview**
 
 The **Lumon Interface** is a static web-based simulation inspired by the aesthetics and functionality depicted in the show. It combines minimalist design with dynamic animations to create an immersive experience for all who dare to refine.
 
 ---
 
-## 🌟 **Features**
+## **Features**
 
 - **Interactive Grid Display**:  
   A mesmerizing grid layout, dynamically populated with data for the ultimate refinement experience.
@@ -51,7 +51,7 @@ The **Lumon Interface** is a static web-based simulation inspired by the aesthet
 
 ---
 
-## ⚒️ **Usage**
+## **Usage**
 
 1. Clone the repository:
    ```bash
@@ -69,13 +69,13 @@ The **Lumon Interface** is a static web-based simulation inspired by the aesthet
 
 ---
 
-## ✍🏼 **Development Notes**
+## **Development Notes**
 
 The current implementation focuses solely on the interface. Features like **Employee Reports** and the **Features Dashboard** are **under development** and will be introduced in future updates.
 
 ---
 
-## 🚀 **Roadmap**
+## **Roadmap**
 
 - Add a **Features Dashboard** with links to:
   - ✓ Employee Reports
@@ -87,7 +87,7 @@ The current implementation focuses solely on the interface. Features like **Empl
 
 ---
 
-## 🗃️ **References**
+## **References**
 
 This interface draws inspiration from the *Severance* universe and uses the following resources as references for its design and structure:
 - [Severance UI Design](https://www.hudsandguis.com/home/2022/severance)
@@ -95,13 +95,13 @@ This interface draws inspiration from the *Severance* universe and uses the foll
 
 ---
 
-## 🤝 **Contributions**
+## **Contributions**
 
 Contributions are welcome, but all code must meet Lumon’s exacting standards. Please ensure clarity, compliance, and refinement in every pull request.
 
 ---
 
-## 📃 **License**
+## **License**
 
 The **Lumon Interface** is an independent project inspired by the world of *Severance*. All rights to the show and its intellectual property belong to their respective owners.
 
